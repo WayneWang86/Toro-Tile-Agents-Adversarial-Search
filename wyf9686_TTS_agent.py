@@ -2,8 +2,6 @@
 wyf9686_TTS_agent.py
 modified from a version of starter code PlayerSkeleton.py, in CSE 415
 by Wayne Wang
-UWNetID: wyf9686
-Student number: 1664873
 Date: Nov 08, 2019
 
 Assignment 5, in CSE 415, Autumn 2019.
